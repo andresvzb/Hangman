@@ -1,0 +1,6 @@
+Secret Word is: pizza, Number of Guesses: 5
+You have won 1 out of 1 games of Hangman. Keep Playing!
+Secret Word is: basket, Number of Guesses: 8
+You have won 1 out of 1 games of Hangman. Keep Playing!
+Secret Word is: movies, Number of Guesses: 6
+You have won 2 out of 2 games of Hangman. Keep Playing!
